@@ -11,15 +11,15 @@ class Ideone
 			int a=s.nextInt();
 			if(a/2==0)
 			{
-					System.out.println("given number is even");
+					System.out.println("Even");
 			}
 			else if(a/2!=0)
 			{
-				System.out.println("given number is odd");
+				System.out.println("Odd");
 			}
 			else
 			{
-				System.out.println("given number is invalid");
+				System.out.println("Invalid");
 			}
 	}
 }
