@@ -11,18 +11,18 @@ class Ideone
 	{
 		Scanner s=new Scanner(System.in);
 		int a=s.nextInt();
-+	if(a>0)
-+	{
-+		System.out.println("Postive");
-+	}
-+	else if(a<0)
-+	{
-+		System.out.println("Negative");
-+	}
-+	else 
-+	{
-+		System.out.println("Zero");
-+	}
-+	
+	if(a>0)
+	{
+		System.out.println("Postive");
+	}
+	else if(a<0)
+	{
+		System.out.println("Negative");
+	}
+	else 
+	{
+		System.out.println("Zero");
+	}
+	
 	}
 }
